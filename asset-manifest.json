@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactSuperGestiion/static/css/main.c221741d.chunk.css",
+    "main.js": "/ReactSuperGestiion/static/js/main.0a47fdbb.chunk.js",
+    "main.js.map": "/ReactSuperGestiion/static/js/main.0a47fdbb.chunk.js.map",
+    "runtime-main.js": "/ReactSuperGestiion/static/js/runtime-main.7acc6251.js",
+    "runtime-main.js.map": "/ReactSuperGestiion/static/js/runtime-main.7acc6251.js.map",
+    "static/js/2.7a8e48af.chunk.js": "/ReactSuperGestiion/static/js/2.7a8e48af.chunk.js",
+    "static/js/2.7a8e48af.chunk.js.map": "/ReactSuperGestiion/static/js/2.7a8e48af.chunk.js.map",
+    "index.html": "/ReactSuperGestiion/index.html",
+    "static/css/main.c221741d.chunk.css.map": "/ReactSuperGestiion/static/css/main.c221741d.chunk.css.map",
+    "static/js/2.7a8e48af.chunk.js.LICENSE.txt": "/ReactSuperGestiion/static/js/2.7a8e48af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7acc6251.js",
+    "static/js/2.7a8e48af.chunk.js",
+    "static/css/main.c221741d.chunk.css",
+    "static/js/main.0a47fdbb.chunk.js"
+  ]
+}
