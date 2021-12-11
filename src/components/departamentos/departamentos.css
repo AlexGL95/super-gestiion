@@ -1,0 +1,36 @@
+/* Imagen background */
+.img-background-usuarios {
+    position: absolute;
+    background-image: url('https://s3.us-east-2.amazonaws.com/biitacora.develop.com/img_login.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+    width: 100%;
+    height: 91.5%;
+    z-index: -1;
+}
+/* FIN Imagen background */
+
+.btn-submit{
+    background-color: #E6501E;
+    color: white;
+}
+
+.btn-submit:hover{
+    background-color: #AD3C16;
+}
+
+.btn-submit:focus{
+    background-color: #EB734B;
+}
+
+.label-input{
+    color: black;
+    background-color: #FFFF;
+    width: fit-content;
+    position: relative;
+    margin-right: 16.5rem;
+    top: 10px;
+    z-index: 3;
+}
